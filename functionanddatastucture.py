@@ -1,3 +1,4 @@
+# Function and date structure
 def calculate_area(length, width):
     """
     Function to calculate the area of a rectangle
